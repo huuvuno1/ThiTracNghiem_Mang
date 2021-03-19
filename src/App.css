@@ -1,38 +1,129 @@
-.App {
-  text-align: center;
-}
-
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+    height: 40vmin;
+    pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
 }
 
 .App-link {
-  color: #61dafb;
+    color: #61dafb;
 }
 
 @keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+
+/* dfsjdsk */
+
+body {
+    font-size: 20px;
+}
+
+.form {
+    width: 500px;
+    border: 1px solid black;
+    margin: 20px auto;
+}
+
+.via {
+    position: absolute;
+    bottom: 10px;
+    right: 0;
+    left: 0;
+    text-align: center;
+}
+
+.remember {
+    width: 500px;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+#btn_cancel_save {
+    display: none;
+}
+
+.remember button {
+    min-height: 30px;
+}
+
+#root {}
+
+label {
+    cursor: pointer;
+}
+
+label:hover {
+    text-decoration: underline;
+}
+
+.result {
+    background-color: #fcefdc;
+    color: #7d5a29;
+    padding: 10px 20px 20px;
+}
+
+.y_n {
+    color: red;
+    font-weight: bold;
+}
+
+.btn_move1,
+.btn_move2 {
+    height: 30px;
+    outline: none;
+    margin: 20px;
+}
+
+.btn_move {
+    display: flex;
+    justify-content: space-between;
+}
+
+.answer {
+    margin-left: 30px;
+}
+
+.question {
+    margin: 20px;
+    font-size: 23px;
+}
+
+input:checked+label {
+    font-weight: bold !important;
+}
+
+@media only screen and (max-width: 500px) {
+    .form,
+    .remember {
+        max-width: 90%;
+    }
+    #root {
+        margin-top: 20px;
+    }
+    .via {
+        position: relative;
+    }
 }

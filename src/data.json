@@ -1,0 +1,1175 @@
+[{
+        "id": "0",
+        "question": "Lớp truy cập mạng trong mô hình giao thức TCP/IP tương ứng với lớp/cụm các lớp nào trong mô hình OSI",
+        "answers": [
+            "Lớp vật lý",
+            "Lớp vật lý, lớp liên kết dữ liệu",
+            "Lớp mạng",
+            "Lớp vật lý, lớp liên kết dữ liệu, lớp mạng"
+        ],
+        "result": 1
+    },
+    {
+        "id": "1",
+        "question": "Lớp truy cập mạng trong mô hình giao thức TCP/IP tương ứng với lớp/cụm các lớp nào trong mô hình OSI",
+        "answers": [
+            "Lớp vật lý",
+            "Lớp vật lý, lớp liên kết dữ liệu",
+            "Lớp mạng",
+            "Lớp vật lý, lớp liên kết dữ liệu, lớp mạng"
+        ],
+        "result": 1
+    },
+    {
+        "id": "2",
+        "question": "Chức năng của lớp mạng trong mô hình TCP/IP là",
+        "answers": [
+            "Đóng gói dữ liệu IP vào khung",
+            "Điểu khiển luồng",
+            "Định tuyến",
+            "Ánh xạ địa chỉ IP sang địa chỉ vật lý"
+        ],
+        "result": 2
+    },
+    {
+        "id": "3",
+        "question": "Kỹ thuật SCMA/CD thì mỗi nút mạng sẽ thử truy cập ngẫu nhiên và đợi trong khoảng thời gian là bao lâu ",
+        "answers": [
+            "102.2µs",
+            "Bằng số ngẫu nhiên với khe thời gian",
+            "51.2 µs",
+            "52.1 µs"
+        ],
+        "result": 1
+    },
+    {
+        "id": "4",
+        "question": "Kỹ thuật chuyển thẻ bài được sử dụng trong cấu trúc mạng nào ",
+        "answers": [
+            "Cấu trúc Ring",
+            "Cấu trúc Bus",
+            "Cấu trúc Mesh",
+            "Cấu trúc Star"
+        ],
+        "result": 0
+    },
+    {
+        "id": "5",
+        "question": "Định dạng đơn vị thông tin tại lớp truy nhập mạng là",
+        "answers": [
+            "Đoạn dữ liệu",
+            "Gói dữ liệu",
+            "Bản tin",
+            "Khung dữ liệu"
+        ],
+        "result": 1
+    },
+    {
+        "id": "6",
+        "question": "Định dạng đơn vị thông tin tại lớp liên mạng là",
+        "answers": [
+            "Gói dữ liệu",
+            "Đoạn dữ liệu",
+            "Bản tin",
+            "Khung dữ liệu"
+        ],
+        "result": 2
+    },
+    {
+        "id": "7",
+        "question": "Định dạng đơn vị thông tin lớp giao vận là gì ",
+        "answers": [
+            "Đoạn dữ liệu",
+            "Click me <3",
+            "Click me <3",
+            "Click me <3"
+        ],
+        "result": 0
+
+    },
+    {
+        "id": "8",
+        "question": "Định dạng đơn vị thông tin tại lớp ứng dụng là",
+        "answers": [
+            "Bản tin",
+            "Khung dữ liệu",
+            "Đoạn dữ liệu",
+            "Gói dữ liệu"
+        ],
+        "result": 0
+    },
+    {
+        "id": "9",
+        "question": "Giao thức IP hoạt động tại lớp nào trong mô hình TCP/IP",
+        "answers": [
+            "Lớp truy nhập mạng",
+            "Lớp liên mạng",
+            "Lớp phiên",
+            "Lớp truyền tải"
+        ],
+        "result": 1
+    },
+    {
+        "id": "10",
+        "question": "Chức năng của giao thức IP là",
+        "answers": [
+            "Định nghĩa cơ chế định địa chỉ trong mạng Internet",
+            "Phân đoạn và tái tạo dữ liệu",
+            "Định hướng đường cho các đơn vị dữ liệu đến các host ở xa",
+            "Phân đoạn"
+        ],
+        "result": 0
+    },
+    {
+        "id": "11",
+        "question": "Chức năng của giao thức thức bản tin điều khiển (ICMP - lệnh ping) là",
+        "answers": [
+            "Định tuyến lại",
+            "Điều khiển luồng, phát hiện sự không đến đích",
+            "Kiểm tra các host ở xa có hoạt động hay không",
+            "Điều khiển luồng"
+        ],
+        "result": 2
+    },
+    {
+        "id": "12",
+        "question": "Chọn phát biểu ĐÚNG về đặc tính của mnagj LAN",
+        "answers": [
+            "Tốc độ dữ liệu không cao, phạm vi địa lý không giới hạn và ít lỗi ",
+            "Tốc độ dữ liệu không cao, phạm vi địa lý bị giới hạn và ít lỗi",
+            "Tốc độ truyền dữ liệu cao, không giới hạn phạm vi và ít lỗi",
+            "Tốc độ dữ liệu cao, phạm vi địa lý bị giới hạn và ít lỗi"
+        ],
+        "result": 3
+    },
+    {
+        "id": "13",
+        "question": "Lớp nào (Layer) trong mô hình OSI chịu trách nhiệm mã hóa(encryption) dữ liệu ",
+        "answers": [
+            "Presentation",
+            "Application",
+            "Session",
+            "Transport"
+        ],
+        "result": 0
+    },
+    {
+        "id": "14",
+        "question": "Card mạng (NIC) thuộc tầng nào trong mô hình OSI",
+        "answers": [
+            "Layer 3B",
+            "Layer 5",
+            "Layer 2",
+            "Layer 4"
+        ],
+        "result": 2
+    },
+    {
+        "id": "15",
+        "question": "Routers định tuyến gói dữ liệu ở tầng nào trong mô hình TCP / IP ",
+        "answers": [
+            "Layer 3",
+            "Layer 1",
+            "Layer 4",
+            "Layer 2"
+        ],
+        "result": 3
+    },
+    {
+        "id": "16",
+        "question": "Công nghệ LAN nào sử dụng CSMA/CD",
+        "answers": [
+            "Ethernet",
+            "Các phương án khác đều đúng",
+            "Token Ring",
+            "FDDI"
+        ],
+        "result": 0
+    },
+    {
+        "id": "17",
+        "question": "Trang thiết bị mạng nào làm giảm bớt sự va chạm (collisions)",
+        "answers": [
+            "Switch",
+            "Hub",
+            "NIC",
+            "Các phương án khác đều đúng"
+        ],
+        "result": 0
+    },
+    {
+        "id": "18",
+        "question": "Công nghệ mạng LAN nào đươc sử dụng rộng rãi nhất hiện nay ",
+        "answers": [
+            "Token Ring",
+            "Ethernet",
+            "ArcNet",
+            "FDDI"
+        ],
+        "result": 1
+    },
+    {
+        "id": "19",
+        "question": "Phần nào trong địa chỉ IP được ROUTER sử dụng khi tìm đường đi ",
+        "answers": [
+            "Router address (Địa chỉ của ROUTER)",
+            "Network address (Địa chỉ mạng)",
+            "FDDI",
+            "Host address"
+        ],
+        "result": 1
+    },
+    {
+        "id": "20",
+        "question": "Trong HEADER của IP PACKET có chứa",
+        "answers": [
+            "Source and Destination addresses",
+            "Source addressC",
+            "Không chứa địa chỉ nào cả",
+            "Destination address"
+        ],
+        "result": 0
+    },
+    {
+        "id": "21",
+        "question": "Tầng nào trong mo hình TCP/IP đóng gói dữ liệu kèm theo IP HEADER ",
+        "answers": [
+            "Layer 3",
+            "Layer 4",
+            "Layer 1",
+            "Layer 2"
+        ],
+        "result": 3
+    },
+    {
+        "id": "22",
+        "question": "Độ dài địa chỉ MAC là",
+        "answers": [
+            "24 bits",
+            "8 bits",
+            "36 bits",
+            "48 bits"
+        ],
+        "result": 3
+    },
+    {
+        "id": "23",
+        "question": "Thiết bị mạng nào sau đây là không thể thiếu được trong mạng Internet (Là thành phần cơ bản tạo lên mạng Internet) ",
+        "answers": [
+            "Router",
+            "Hub",
+            "Switch",
+            "Brigde"
+        ],
+        "result": 0
+    },
+    {
+        "id": "24",
+        "question": "Chuẩn IEEE sử dụng cho Ethernet là",
+        "answers": [
+            "802.3",
+            "802.6",
+            "802.5",
+            "802.4"
+        ],
+        "result": 0
+    },
+    {
+        "id": "25",
+        "question": "Router là thiết bị hoạt động tại tầng",
+        "answers": [
+            "Vật lý (Physical)",
+            "Liên kết dữ liệu (Data-link)",
+            "Mạng (Network)",
+            "Giao vận (Transport)"
+        ],
+        "result": 2
+    },
+    {
+        "id": "26",
+        "question": "Router thực hiện chức năng",
+        "answers": [
+            "Chọn đường đi và chuyển gói",
+            "Lọc và nén dữ liệu",
+            "Sửa lỗi",
+            "Mã hóa dữ liệu"
+        ],
+        "result": 0
+    },
+    {
+        "id": "27",
+        "question": "Địa chỉ MAC sử dụng tại tầng",
+        "answers": [
+            "Liên kết dữ liệu (Data-link)",
+            "Mạng (Network)",
+            "Vật lý (Physical)",
+            "Ứng dụng (Application)"
+        ],
+        "result": 0
+    },
+    {
+        "id": "28",
+        "question": "Trình tự đóng gói dữ liệu khi tuyền từ máy A sang máy B là ",
+        "answers": [
+            "Data, packet, segment, frame, bit",
+            "Data, segment, frame, packet, bit",
+            "Data, frame, packet, segment, bit",
+            "Data, segment, packet, frame, bit"
+        ],
+        "result": 3
+    },
+    {
+        "id": "29",
+        "question": "Dữ liệu truyền từ máy tính A đến máy tính B phải trải qua quá trình nào sau đây ",
+        "answers": [
+            "Nén và đóng gói dữ liệu",
+            "Kiểm tra dữ liệu",
+            "Lọc dữ liệu",
+            "Phân tích dữ liệu"
+        ],
+        "result": 0
+    },
+    {
+        "id": "30",
+        "question": "Đơn vị dữ liệu tại tầng Application là",
+        "answers": [
+            "Frame",
+            "Segment",
+            "Packet",
+            "Data"
+        ],
+        "result": 3
+    },
+    {
+        "id": "31",
+        "question": "Giao thức dùng để phân giải từ địa chỉ IP sang địa chỉ MAC là ",
+        "answers": [
+            "ARP",
+            "ICMP",
+            "RARP",
+            "TCP"
+        ],
+        "result": 0
+    },
+    {
+        "id": "32",
+        "question": "Đơn vị cơ bản dùng để đo tốc độ truyền dữ liệu là",
+        "answers": [
+            "Byte",
+            "Bps",
+            "Bit",
+            "Hz"
+        ],
+        "result": 2
+    },
+    {
+        "id": "33",
+        "question": "Địa chỉ IP nào bên dưới có cùng địa chỉ mạng với địa chỉ 192.168.1.10/24 ",
+        "answers": [
+            "192.168.11.12/24B. 192.168.10.1/24",
+            "192.168.1.32/24",
+            "192.168.1.256/24"
+        ],
+        "result": 2
+    },
+    {
+        "id": "34",
+        "question": "Thứ tự các lớp từ cao đến thấp trong mô hình TCP/IP",
+        "answers": [
+            "Application – Transport – Network Access – Internet",
+            "Application – Internet – Transport – Network Access",
+            "Application – Transport – Internet – Network Access",
+            "Application – Network Access – Internet – Transport "
+        ],
+        "result": 0
+    },
+    {
+        "id": "35",
+        "question": "Các giao thức hoạt đọng tại tầng Transport",
+        "answers": [
+            "FTP, HTTP",
+            "SMTP, FTP",
+            "TCP, UDP",
+            "DNS, TFTP"
+        ],
+        "result": 2
+    },
+    {
+        "id": "36",
+        "question": "TCP là giao thức",
+        "answers": [
+            "Phi kết nối (Connectionless)",
+            "Hướng kết nối (Connection-oriented)",
+            "Định tuyến (Routing)",
+            "Không tin cậy"
+        ],
+        "result": 1
+    },
+    {
+        "id": "37",
+        "question": "UDP là giao thức",
+        "answers": [
+            "Phi kết nối (Connectionless)",
+            "Hướng kết nối (Connection-oriented)",
+            "Định tuyến (Routing)",
+            "Không tin cậy"
+        ],
+        "result": 0
+    },
+    {
+        "id": "38",
+        "question": "DNS sử dụng cổng",
+        "answers": [
+            "21",
+            "20",
+            "53",
+            "69"
+        ],
+        "result": 2
+    },
+    {
+        "id": "39",
+        "question": "DNS dùng để",
+        "answers": [
+            "Định tuyến",
+            "Duyệt Web",
+            "Cấp phát IP",
+            "Phân giải tên miền"
+        ],
+        "result": 3
+    },
+    {
+        "id": "40",
+        "question": "Bộ giao thức TCP/IP gồm những lớp nào",
+        "answers": [
+            "Lớp vật lý, lớp liên mạng, lớp giao vận, lớp ứng dụngB. Lớp truy nhập mạng, lớp liên kết dữ liệu, lớp giao vận",
+            "Lớp truy nhập mạng, lớp liên mạng, lớp giao vận, lớp ứng dụng ",
+            "Lớp truy nhập mạng, lớp mạng, lớp giao vận, lớp ứng dụng"
+        ],
+        "result": 0
+    },
+    {
+        "id": "41",
+        "question": "Lớp ứng dụng trong mô hình giao thức TCP/IP tương ứng với lớp / cụm các lớp nào trong mô hình OSI ",
+        "answers": [
+            "Lớp phiên",
+            "Lớp ứng dụng, lớp trình diễn, lớp phiên",
+            "Lớp ứng dung",
+            "Lớp ứng dụng, lớp trình diễn"
+        ],
+        "result": 1
+    },
+    {
+        "id": "42",
+        "question": "WPA là viết tắt của",
+        "answers": [
+            "Wireless Privacy Agent",
+            "Wired Privacy Adaptive",
+            "Wifi Protected Access",
+            "Wireless Protected Access"
+        ],
+        "result": 2
+    },
+    {
+        "id": "43",
+        "question": "Thuật toán nào được sử dụng trong WPA2",
+        "answers": [
+            "TKIP/AES",
+            "DES",
+            "RSA",
+            "CRC"
+        ],
+        "result": 0
+    },
+    {
+        "id": "44",
+        "question": "SSID là viết tắt của",
+        "answers": [
+            "Session Services Identifier",
+            "Service Set Identifier",
+            "Session Set Identifier",
+            "Security Service Identifier"
+        ],
+        "result": 1
+    },
+    {
+        "id": "45",
+        "question": "Phương thức bảo mật nào sau đây thường không có sẵn trong các AP ",
+        "answers": [
+            "MAC Filter",
+            "Hidden SSID",
+            "WEP",
+            "RADIUS"
+        ],
+        "result": 0
+    },
+    {
+        "id": "46",
+        "question": "Giá trị IV trong gói tin WEP được dùng để",
+        "answers": [
+            "Tạo ra mã khóa cho gói tin",
+            "Mã hóa gói tin",
+            "Kiểm tra gói tinD",
+            "Xác thực gói tin"
+        ],
+        "result": 0
+    },
+    {
+        "id": "47",
+        "question": "Trong mô hình OSI giao thức IP nằm ở tầng thứ mấy",
+        "answers": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "result": 1
+    },
+    {
+        "id": "48",
+        "question": "Giao thức nào dùng để nhận mail server",
+        "answers": [
+            "POP",
+            "SMTP",
+            "HTTP",
+            "Telnet"
+        ],
+        "result": 0
+    },
+    {
+        "id": "49",
+        "question": "Những tiêu chí nào sau đây không thuộc đặc điểm của giao thức TCP ",
+        "answers": [
+            "Connection – oriented",
+            "Reliable",
+            "No flow control",
+            "Re-sends anything not received"
+        ],
+        "result": 2
+    },
+    {
+        "id": "50",
+        "question": "Những giao thức nào sau đây thuộc nhóm connectionless",
+        "answers": [
+            "TCP",
+            "UDP",
+            "IP",
+            "HTTP"
+        ],
+        "result": 1
+    },
+    {
+        "id": "51",
+        "question": "Các máy trạm sử dụng địa chỉ tầng Data link để làm gì",
+        "answers": [
+            "Remote delivery",
+            "Local and remote delivery",
+            "Local delivery",
+            "Remote delivery using routers"
+        ],
+        "result": 2
+    },
+    {
+        "id": "52",
+        "question": "Thuật ngũ nào sau đây không đề cập tới mô hình quản trị mạng ",
+        "answers": [
+            "Peer-to-Peer",
+            "Client/Server",
+            "Hybrid",
+            "Shared Network"
+        ],
+        "result": 3
+    },
+    {
+        "id": "53",
+        "question": "Đâu là ưu điểm của mô hình Peer-to-Peer so với hình Client / Server ",
+        "answers": [
+            "Quản lý được nhiều máy hơn",
+            "Không cần đào tạo",
+            "Không tốn máy chủ",
+            "Dễ chia sẻ hơn"
+        ],
+        "result": 3
+    },
+    {
+        "id": "54",
+        "question": "Đâu không là ưu điểm của mô hình Client/Server",
+        "answers": [
+            "Không cần đào tạo nhân viên sử dụng máy",
+            "Quản lý tập trung",
+            "Giám thị tập trung",
+            "Độ bảo mật cao hơn"
+        ],
+        "result": 0
+    },
+    {
+        "id": "55",
+        "question": "Mô hình quản trị tập trung thường thấy ở các máy chủ sử dụng ",
+        "answers": [
+            "Windows Server",
+            "Linux",
+            "Unix",
+            "Sun Solaris"
+        ],
+        "result": 0
+    },
+    {
+        "id": "56",
+        "question": "Đâu là ưu điểm của hệ điều hành mạng so với hệ điều hành thông thường ",
+        "answers": [
+            "Đa nhiệm",
+            "Đa người dùng",
+            "Đa tiến trình",
+            "Đa vi xử lý"
+        ],
+        "result": 3
+    },
+    {
+        "id": "57",
+        "question": "Vị trí của Firewall trong hệ thống mạng",
+        "answers": [
+            "Trong mạng LAN",
+            "Trong mạng WAN",
+            "Ở giữa mạng LAN và mạng WAN",
+            "Giữa mạng LAN và Internet"
+        ],
+        "result": 2
+    },
+    {
+        "id": "58",
+        "question": "Đặc điểm nào sau đây không phải là đặc điểm của Firewall",
+        "answers": [
+            "Có thể là phần cứng",
+            "Có thể là phền mềm",
+            "Ngăn chặn các kết nối không hợp lệ",
+            "Giúp vào mạng nhanh hơn"
+        ],
+        "result": 3
+    },
+    {
+        "id": "59",
+        "question": "Firewall sử dựng cơ chế gì để kiểm soát kết nối",
+        "answers": [
+            "Packet Filter",
+            "ProxyC. Tunneling",
+            "Encryption"
+        ],
+        "result": 0
+    },
+    {
+        "id": "60",
+        "question": "Đâu là tên của 1 phần mềm Firewall chuyên nghiệp được sử dụng nhiều tại các doanh nghiệp ",
+        "answers": [
+            "MS Exchange",
+            "Bit Defender",
+            "ISA",
+            "Bkav Pro"
+        ],
+        "result": 2
+    },
+    {
+        "id": "61",
+        "question": "Đâu là nhược điểm của tường lửa",
+        "answers": [
+            "Không kiểm soát được các gói tin lớn",
+            "Giảm tốc độ hệ thống",
+            "Không kiểm soát được các kết nối từ trong ra ngoài hệ thống ",
+            "Không làm việc tốt khi hệ thống có sự thay đổi về thiết bị máy móc "
+        ],
+        "result": 2
+    },
+    {
+        "id": "62",
+        "question": "Câu lệnh để xem bảng định tuyến trong hệ điều hành Windows là ",
+        "answers": [
+            "ROUTE",
+            "ROUTE PRINT",
+            "ROUTE SHOW",
+            "IPCONFIG/ROUTE"
+        ],
+        "result": 1
+    },
+    {
+        "id": "63",
+        "question": "Địa chỉ khai báo Default Gateway sẽ xuất hiện trong bảng định tuyến với giá trị ",
+        "answers": [
+            "127.0.0.1",
+            "0.0.0.0",
+            "127.0.0.0",
+            "255.255.255.255"
+        ],
+        "result": 1
+    },
+    {
+        "id": "64",
+        "question": "Khi máy A muốn tìm đường đến máy B, thì máy A sẽ tìm gì đầu tiên trong bảng định tuyến ",
+        "answers": [
+            "Địa chỉ mạng máy B",
+            "Địa chỉ mặc định",
+            "Địa chỉ máy B",
+            "Địa chỉ router gần nhất"
+        ],
+        "result": 0
+    },
+    {
+        "id": "65",
+        "question": "Những mô tả nào sau đây phù hợp với giao thức định tuyến RIP ",
+        "answers": [
+            "Là giao thức định tuyến động",
+            "Là giao thức đinh tuyến tĩnh",
+            "Sử dụng vector khoảng cách",
+            "Sử dụng tình trạng tại các nút"
+        ],
+        "result": 0
+    },
+    {
+        "id": "66",
+        "question": "Giao thức cổng ngoại BGP là viết tắt của",
+        "answers": [
+            "Bit Group Protocol",
+            "Border Gateway Protocol",
+            "Best Gateway Protocol",
+            "Block Group Protocol"
+        ],
+        "result": 1
+    },
+    {
+        "id": "67",
+        "question": "VPN là viết tắt của",
+        "answers": [
+            "Virtual Packet Network",
+            "Virtual Private Network",
+            "Vice Packet Network",
+            "Void Protocol Network"
+        ],
+        "result": 1
+    },
+    {
+        "id": "68",
+        "question": "Cơ chế nào sau đây được sử dụng trong mạng VPN",
+        "answers": [
+            "Đường hầm",
+            "Đường truyền riêng",
+            "Đổi địa chỉ",
+            "Mapping IP D"
+        ],
+        "result": 0
+    },
+    {
+        "id": "69",
+        "question": "Đâu là ưu điểm của mạng VPN",
+        "answers": [
+            "Không tốn chi phí xây dựng mạng vật lý",
+            "Có độ an toàn cao",
+            "Có khả nang truy cập thông tin qua mạng công cộng",
+            "Tất cả các đáp án"
+        ],
+        "result": 3
+    },
+    {
+        "id": "70",
+        "question": "Nêu các chức năng của tầng Transport",
+        "answers": [
+            "Nén dữ liệu",
+            "Định dạng thông điệp",
+            "Đánh số các packet",
+            "Chia nhỏ dữ liệu từ tầng trên xuống để tạo thánh các segment"
+        ],
+        "result": 2
+    },
+    {
+        "id": "71",
+        "question": "Nêu các chức năng của tầng Presentation",
+        "answers": [
+            "Mã hóa dữ liệu",
+            "Nén dữ liệu",
+            "Phân đoạn dữ liệu",
+            "Đánh dấu các hội thoại"
+        ],
+        "result": 0
+    },
+    {
+        "id": "72",
+        "question": "Các chuẩn JPEG, TIFF, ASCII, EBCDIC do tầng nào của mô hình OSI định nghĩa ",
+        "answers": [
+            "Transport",
+            "Network",
+            "Application",
+            "Presentation"
+        ],
+        "result": 3
+    },
+    {
+        "id": "73",
+        "question": "Có bao nhiêu vùng đụng đọ (Collision Domain) trong một mạng dùng 1 Repeater và 1 Hub ",
+        "answers": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "result": 1
+    },
+    {
+        "id": "74",
+        "question": "Phương pháp kiểm tra VRC là phương pháp kiểm tra chẵn lẻ theo ",
+        "answers": [
+            "Byte",
+            "Khối",
+            "Segment",
+            "Frame"
+        ],
+        "result": 0
+    },
+    {
+        "id": "75",
+        "question": "Phương pháp hàng đợi WFQ là viết tắt của",
+        "answers": [
+            "Wide Fair Queue",
+            "Wire Fair Queue",
+            "Weight Fair Queue",
+            "With Fair Queue"
+        ],
+        "result": 2
+    },
+    {
+        "id": "76",
+        "question": "Đâu là phương pháp phát hiện lỗi trong các phương pháp sau ",
+        "answers": [
+            "ARQ",
+            "ALOHA",
+            "Pure ALOHA",
+            "CDMA"
+        ],
+        "result": 3
+    },
+    {
+        "id": "77",
+        "question": "Loại địa chỉ nào sau đây không tồn tại trên IPv6",
+        "answers": [
+            "Multicast",
+            "Anycast",
+            "Broadcast",
+            "Loopback"
+        ],
+        "result": 1
+    },
+    {
+        "id": "78",
+        "question": "Giao thức nào không phải là giao thức trên mạng WAN",
+        "answers": [
+            "PPP",
+            "FDDI",
+            "X.25",
+            "IPX"
+        ],
+        "result": 3
+    },
+    {
+        "id": "79",
+        "question": "Trong các công nghệ sau, công nghệ nào không thuộc họ xDSL ",
+        "answers": [
+            "ADSL",
+            "HDSL",
+            "CDSL",
+            "VDSL"
+        ],
+        "result": 2
+    },
+    {
+        "id": "80",
+        "question": "Giao thức nào được sử dụng ở tầng 3 trong các giao thức sau ",
+        "answers": [
+            "Apple Talk.",
+            "TCP",
+            "HTTP",
+            "UDP"
+        ],
+        "result": 1
+    },
+    {
+        "id": "81",
+        "question": "CRC là viết tắt của",
+        "answers": [
+            "Continuous erroR Check",
+            "Cyclic Redundancy Check",
+            "Calculate inteRgrity Check",
+            "Copy Read Check"
+        ],
+        "result": 1
+    },
+    {
+        "id": "82",
+        "question": "Thuật ngữ nào đề cập đến việc kiểm tra độ toàn vẹn gói tin ",
+        "answers": [
+            "CRC Check",
+            "Integrity Check",
+            "Frame Check Sequence",
+            "Error Check"
+        ],
+        "result": 2
+    },
+    {
+        "id": "83",
+        "question": "Phương pháp nào sau đây không sử dụng trong phát hiện lỗi ",
+        "answers": [
+            "Parity bits",
+            "VRC",
+            "LRC",
+            "Sliding Windows"
+        ],
+        "result": 2
+    },
+    {
+        "id": "84",
+        "question": "Thuật ngữ nào không liên quan đến cơ chế xử lý của hàng đợi ",
+        "answers": [
+            "Wait",
+            "Weight",
+            "LIFO",
+            "FIFO"
+        ],
+        "result": 0
+    },
+    {
+        "id": "85",
+        "question": "Trong mô hình hàng đợi M/M/1, thì 1 là",
+        "answers": [
+            "Đường tuyến",
+            "Số lượng Request",
+            "Số lượng Server",
+            "Số lượng Client"
+        ],
+        "result": 2
+    },
+    {
+        "id": "86",
+        "question": "Thuật ngữ nào sau đây liên quan tới các mô hình trong lý thuyết hàng đợi ",
+        "answers": [
+            "Poison",
+            "Delta",
+            "Waiting Room",
+            "Lines"
+        ],
+        "result": 0
+    },
+    {
+        "id": "87",
+        "question": "Cơ chế gửi lại gói tin lỗi xuất hiện trong tầng nào trong mô hình OSI ",
+        "answers": [
+            "Application",
+            "Session",
+            "Presentation",
+            "Transport"
+        ],
+        "result": 1
+    },
+    {
+        "id": "88",
+        "question": "Trường nào trong TCP Header được sử dụng để kiểm soát lượng tin gửi đi tối đa ",
+        "answers": [
+            "Sequence Number",
+            "Checksum",
+            "ACK Numner",
+            "Windows Size"
+        ],
+        "result": 3
+    },
+    {
+        "id": "89",
+        "question": "Phương pháp kiểm soát xung đột nào sau đây được sử dụng trong các mạng LAN Ethernet ",
+        "answers": [
+            "CSMA/CD",
+            "CSMA/CA",
+            "Token",
+            "RTS/CTS"
+        ],
+        "result": 0
+    },
+    {
+        "id": "90",
+        "question": "Cơ chế “Hỏi trước khi gửi” là của phương pháp nào",
+        "answers": [
+            "CSMA/CD",
+            "CSMA/CA",
+            "Token Passing",
+            "Slotted ALOHA"
+        ],
+        "result": 2
+    },
+    {
+        "id": "91",
+        "question": "CA trong CSMA/CA là viết tắt của cụm từ nào",
+        "answers": [
+            "Control media",
+            "Collision Acknowledge",
+            "Collision Avoidance",
+            "Control Agent"
+        ],
+        "result": 2
+    },
+    {
+        "id": "92",
+        "question": "Phương pháp Token Passing được sử dụng trong mạng",
+        "answers": [
+            "PPP",
+            "Shared Media",
+            "Ring",
+            "Peer to Peer"
+        ],
+        "result": 2
+    },
+    {
+        "id": "93",
+        "question": "Giao thức nào sau đây không phải là giao thức baot mật của VPN ",
+        "answers": [
+            "IPSec",
+            "HTTPs",
+            "1.2TP",
+            "1.2F"
+        ],
+        "result": 1
+    },
+    {
+        "id": "94",
+        "question": "Trong TCP Header, trường nào chịu trách nhiệm xác định thứ tự của các Segment ",
+        "answers": [
+            "Acknowledge Number",
+            "Segment Number",
+            "Flag",
+            "Windows Size"
+        ],
+        "result": 1
+    },
+    {
+        "id": "95",
+        "question": "Trong TCP Header khi cờ Flag mang giá trị là URG có nghĩa là gì ",
+        "answers": [
+            "Đang trong giai đoạn bắt tay",
+            "Đang trong giai đoạn truyền tin",
+            "Dữ liệu bị mất trên đường truyền",
+            "Có vùng dữ liệu quan trọng trong vùng data"
+        ],
+        "result": 3
+    },
+    {
+        "id": "96",
+        "question": "Địa chỉ cổng Port Number được sử dụng để làm gì",
+        "answers": [
+            "Định danh chương trình ứng dụng",
+            "Định danh máy Client trong mạng LAN",
+            "Định dạng một máy trên mạng InternetD. ĐỊnh dạng nút mạng trong hệ thống mạng"
+        ],
+        "result": 0
+    },
+    {
+        "id": "97",
+        "question": "Địa chỉ cổng có giá trị 80 thì nó thuộc nhóm địa chỉ nào",
+        "answers": [
+            "Nhóm cổng đăng ký",
+            "Nhóm cổng riêng, cộng đồng",
+            "Nhóm cổng phổ dụng",
+            "Không thuộc nhóm nào"
+        ],
+        "result": 2
+    },
+    {
+        "id": "98",
+        "question": "Địa chỉ cổng có giá trị 49333 thì nó thuộc nhóm địa chỉ nào ",
+        "answers": [
+            "Nhóm cổng đăng ký",
+            "Nhón cổng riêng, cổng động",
+            "Nhóm cổng phổ dụng",
+            "Không thuộc nhóm nào"
+        ],
+        "result": 1
+    },
+    {
+        "id": "99",
+        "question": "Địa chỉ IPv4 có độ dài bao nhiêu bits",
+        "answers": [
+            "16",
+            "32",
+            "64",
+            "128"
+        ],
+        "result": 1
+    },
+    {
+        "id": "100",
+        "question": "Địa chỉ cổng có độ dài bao nhiêu bits",
+        "answers": [
+            "16",
+            "32",
+            "64",
+            "128"
+        ],
+        "result": 0
+    },
+    {
+        "id": "101",
+        "question": "Giá trị MTU quy định điều gì",
+        "answers": [
+            "Kích thước gói tin tối da cho phép trên đường truyền",
+            "Loại đơn vị dữ liệu sử dụng trên đường truyền",
+            "Thời gian tối đa trên đường truyền",
+            "Băng thông tối đa được sử dụng trên dường truyền"
+        ],
+        "result": 0
+    },
+    {
+        "id": "102",
+        "question": "Khi kích thước gói tin vượt qua năng lực của Router xử lý hiện tượng nhân mảnh sẽ xảy ra khi nào ",
+        "answers": [
+            "Trường DF trong Flags được đặt lên",
+            "Trường MF trong Flags được đặt lên",
+            "Trường DF trong Flags được hạ xuống",
+            "Trường MF trong Flags được hạ xuống"
+        ],
+        "result": 3
+    },
+    {
+        "id": "103",
+        "question": "Khi giá trị TTL = 0 gói tin sẽ được xử lý thế nào",
+        "answers": [
+            "Gói tin bị hủy",
+            "Gói tin được đưa vào hàng đợi",
+            "Gói tin sẽ bị phân nhánh",
+            "Gói tin được đinh tuyến lại"
+        ],
+        "result": 0
+    },
+    {
+        "id": "104",
+        "question": "Giao thức ARP được sử dụng để làm gì",
+        "answers": [
+            "Phân giải địa chỉ IP sang địa chỉ MAC",
+            "Phân giải địa chỉ MAC sang địa chỉ IP",
+            "Phân giải địa chỉ cổng sang địa chỉ IP",
+            "Phân giải địa chỉ IP sang địa chỉ cổng"
+        ],
+        "result": 0
+    },
+    {
+        "id": "105",
+        "question": "Trường FCS trong Frame dữ liệu có tác dụng gì",
+        "answers": [
+            "Kiểm tra độ vẹn toàn vùng Header của Frame",
+            "Kiểm tra kiến thức của Frame",
+            "Kiểm tra độ ven toàn vùng dữ liệu của Frame",
+            "Kiểm tra dộ vẹn toàn của toàn bộ Frame"
+        ],
+        "result": 3
+    },
+    {
+        "id": "106",
+        "question": "Giá trị Default Gateway trong Router có tác dụng gì",
+        "answers": [
+            "Là đường đi của các gói tin trong trường hợp không tìm thấy thông tin trong bảng định tuyến ",
+            "Là cổng vào ra mặc định của mạng LAN",
+            "Là cổng ra mặc định của mạng LAN",
+            "Là đường đi của các gói tin trong bảng định tuyến"
+        ],
+        "result": 3
+    }
+]
