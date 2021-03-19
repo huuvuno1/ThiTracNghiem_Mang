@@ -18,7 +18,7 @@ function saveIndexQuestion(){
 function changeStyleBtnSave(id)
 {
     let btn = document.getElementById('btn_save');
-        btn.innerText = "Đang lưu câu: " + id;
+        btn.innerText = "Đã lưu câu: " + id;
 }
 
 function resaveIndexQuestion(){
