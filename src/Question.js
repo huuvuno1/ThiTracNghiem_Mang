@@ -7,11 +7,21 @@ function reset()
     for (let i = 0; i < inputs.length; i++)
         inputs[i].checked = false;
 }
+
+function getIDSave()
+{
+    let id = localStorage.getItem("saved");
+    if (id == null)
+        id = 1;
+    id = Number(id);
+    return id;
+}
 class Question extends Component {
     constructor(props) {
         super(props);
+        let idSave = getIDSave();
         this.state = {
-            id: 1,
+            id: idSave,
             question: "",
             answers: ["", "", "", ""],
             result: 0,
@@ -77,7 +87,7 @@ class Question extends Component {
                 <div className="result">
                     <p>Câu trả lời của bạn: <i className="y_n">{this.state.isSelect ? "Đúng" : "Sai"} </i></p>
                     <p id="p">Đán án: {this.state.answers[this.state.result]}</p>
-                    <i>Click đáp án khác để test lại</i>
+                    <i>Có thể click đáp án khác để test lại</i>
                 </div>
             )    
     }

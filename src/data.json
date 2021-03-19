@@ -133,7 +133,7 @@
     },
     {
         "id": "12",
-        "question": "Chọn phát biểu ĐÚNG về đặc tính của mnagj LAN",
+        "question": "Chọn phát biểu ĐÚNG về đặc tính của mạng LAN",
         "answers": [
             "Tốc độ dữ liệu không cao, phạm vi địa lý không giới hạn và ít lỗi ",
             "Tốc độ dữ liệu không cao, phạm vi địa lý bị giới hạn và ít lỗi",
@@ -366,7 +366,8 @@
         "id": "33",
         "question": "Địa chỉ IP nào bên dưới có cùng địa chỉ mạng với địa chỉ 192.168.1.10/24 ",
         "answers": [
-            "192.168.11.12/24B. 192.168.10.1/24",
+            "192.168.11.12/24",
+            "192.168.10.1/24",
             "192.168.1.32/24",
             "192.168.1.256/24"
         ],
@@ -442,7 +443,8 @@
         "id": "40",
         "question": "Bộ giao thức TCP/IP gồm những lớp nào",
         "answers": [
-            "Lớp vật lý, lớp liên mạng, lớp giao vận, lớp ứng dụngB. Lớp truy nhập mạng, lớp liên kết dữ liệu, lớp giao vận",
+            "Lớp vật lý, lớp liên mạng, lớp giao vận, lớp ứng dụng",
+            "Lớp truy nhập mạng, lớp liên kết dữ liệu, lớp giao vận",
             "Lớp truy nhập mạng, lớp liên mạng, lớp giao vận, lớp ứng dụng ",
             "Lớp truy nhập mạng, lớp mạng, lớp giao vận, lớp ứng dụng"
         ],
@@ -571,7 +573,7 @@
     },
     {
         "id": "52",
-        "question": "Thuật ngũ nào sau đây không đề cập tới mô hình quản trị mạng ",
+        "question": "Thuật ngữ nào sau đây không đề cập tới mô hình quản trị mạng ",
         "answers": [
             "Peer-to-Peer",
             "Client/Server",
@@ -651,7 +653,8 @@
         "question": "Firewall sử dựng cơ chế gì để kiểm soát kết nối",
         "answers": [
             "Packet Filter",
-            "ProxyC. Tunneling",
+            "Proxy",
+            "Tunneling",
             "Encryption"
         ],
         "result": 0
@@ -1058,7 +1061,8 @@
         "answers": [
             "Định danh chương trình ứng dụng",
             "Định danh máy Client trong mạng LAN",
-            "Định dạng một máy trên mạng InternetD. ĐỊnh dạng nút mạng trong hệ thống mạng"
+            "Định dạng một máy trên mạng Internet",
+            "Định dạng nút mạng trong hệ thống mạng"
         ],
         "result": 0
     },
@@ -1078,7 +1082,7 @@
         "question": "Địa chỉ cổng có giá trị 49333 thì nó thuộc nhóm địa chỉ nào ",
         "answers": [
             "Nhóm cổng đăng ký",
-            "Nhón cổng riêng, cổng động",
+            "Nhóm cổng riêng, cổng động",
             "Nhóm cổng phổ dụng",
             "Không thuộc nhóm nào"
         ],

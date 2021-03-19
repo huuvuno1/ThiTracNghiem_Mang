@@ -52,6 +52,8 @@ body {
     right: 0;
     left: 0;
     text-align: center;
+    margin-top: 30px;
+    top: 100%;
 }
 
 .remember {
@@ -61,7 +63,8 @@ body {
     justify-content: space-between;
 }
 
-#btn_cancel_save {
+#btn_cancel_save,
+#btn_back_id {
     display: none;
 }
 
@@ -104,6 +107,8 @@ label:hover {
 
 .answer {
     margin-left: 30px;
+    margin-right: 20px;
+    text-align: justify;
 }
 
 .question {
@@ -124,6 +129,17 @@ input:checked+label {
         margin-top: 20px;
     }
     .via {
-        position: relative;
+        position: fixed;
+        background-color: #f8f8f8;
+        top: auto;
+        bottom: 0;
     }
+    .form {
+        margin: 0 auto 50px auto;
+    }
+}
+
+.via a {
+    text-decoration: none;
+    color: royalblue;
 }

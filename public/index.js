@@ -17,13 +17,17 @@ function saveIndexQuestion(){
 
 function changeStyleBtnSave(id)
 {
-    let btn = document.getElementById('btn_save');
-        btn.innerText = "Đã lưu câu: " + id;
+    let btn = document.getElementById('btn_back_id');
+        btn.innerText = "Quay về câu: " + id;
+        btn.style.display = 'inline';
 }
 
 function resaveIndexQuestion(){
     localStorage.clear();
     document.getElementById('btn_cancel_save').style.display = 'none';
     document.getElementById('btn_save').innerText = "Nhớ vị trí";
+    document.getElementById('btn_back_id').style.display = 'none'
 }
-
+function backQuestion(){
+    window.location.href = "/";
+}
