@@ -157,7 +157,7 @@
         "id": "14",
         "question": "Card mạng (NIC) thuộc tầng nào trong mô hình OSI",
         "answers": [
-            "Layer 3B",
+            "Layer 3",
             "Layer 5",
             "Layer 2",
             "Layer 4"
