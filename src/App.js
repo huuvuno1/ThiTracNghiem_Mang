@@ -6,7 +6,6 @@ import Question from './Question';
 
 class App extends Component {
   render() {
-    console.log()
     return (
       <Question/>
     );

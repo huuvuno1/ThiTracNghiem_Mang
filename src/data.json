@@ -386,7 +386,7 @@
     },
     {
         "id": "35",
-        "question": "Các giao thức hoạt đọng tại tầng Transport",
+        "question": "Các giao thức hoạt động tại tầng Transport",
         "answers": [
             "FTP, HTTP",
             "SMTP, FTP",
@@ -855,7 +855,7 @@
             "Broadcast",
             "Loopback"
         ],
-        "result": 1
+        "result": 2
     },
     {
         "id": "78",

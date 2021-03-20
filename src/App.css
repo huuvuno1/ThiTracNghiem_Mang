@@ -94,8 +94,9 @@ label:hover {
 }
 
 .btn_move1,
-.btn_move2 {
-    height: 30px;
+.btn_move2,
+.btn_move3 {
+    height: 40px;
     outline: none;
     margin: 20px;
 }

@@ -72,6 +72,21 @@ class Question extends Component {
         reset()
     }
 
+    randomQuestion = () => {
+        var x = Math.floor((Math.random() * 100) + 6);
+        while (x === this.state.id)
+        {
+            x = Math.floor((Math.random() * 100) + 6);
+        }
+        if (x > 106 || x < 1)
+            x = 1;
+        this.setState({
+            id: x,
+            loop: true,
+            isClicked: false
+        })
+    }
+
     checkAnswer = (ans) => {
         var isSelected =  this.state.result === ans ? true : false;
         this.setState({
@@ -82,11 +97,13 @@ class Question extends Component {
     }
 
     showResult = (x) => {
+        let warn = this.state.id === 77 ? "Đáp án này đã được sửa lại khác với tài liệu (Anycast là sai) !" : "";
         if (this.state.isClicked)
             return (
                 <div className="result">
                     <p>Câu trả lời của bạn: <i className="y_n">{this.state.isSelect ? "Đúng" : "Sai"} </i></p>
-                    <p id="p">Đán án: {this.state.answers[this.state.result]}</p>
+                    <p id="p">Đán án: <b>{this.state.answers[this.state.result]}</b></p>
+                    <p className="y_n">{warn}</p>
                     <i>Có thể click đáp án khác để test lại</i>
                 </div>
             )    
@@ -111,6 +128,7 @@ class Question extends Component {
 
                 <div className="btn_move">
                     <button className="btn_move1" onClick={() => this.backQuestion()}>Câu trước</button>
+                    <button className="btn_move3" onClick={() => this.randomQuestion()}>Ngẫu nhiên</button>
                     <button className="btn_move2" onClick={() => this.nextQuestion()}>Câu sau</button>
                 </div>
             </div>
