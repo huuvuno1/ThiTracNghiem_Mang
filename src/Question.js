@@ -84,7 +84,8 @@ class Question extends Component {
             id: x,
             loop: true,
             isClicked: false
-        })
+        });
+        reset()
     }
 
     checkAnswer = (ans) => {
