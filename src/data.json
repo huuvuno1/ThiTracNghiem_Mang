@@ -1161,7 +1161,7 @@
             "Kiểm tra độ vẹn toàn vùng Header của Frame",
             "Kiểm tra kiến thức của Frame",
             "Kiểm tra độ ven toàn vùng dữ liệu của Frame",
-            "Kiểm tra dộ vẹn toàn của toàn bộ Frame"
+            "Kiểm tra độ vẹn toàn của toàn bộ Frame"
         ],
         "result": 3
     },
@@ -1174,6 +1174,6 @@
             "Là cổng ra mặc định của mạng LAN",
             "Là đường đi của các gói tin trong bảng định tuyến"
         ],
-        "result": 3
+        "result": 2
     }
 ]
