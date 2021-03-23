@@ -98,13 +98,13 @@ class Question extends Component {
     }
 
     showResult = (x) => {
-        let warn = this.state.id === 77 ? "Đáp án này đã được sửa lại khác với tài liệu (Anycast là sai) !" : "";
+        //let warn = this.state.id === 77 ? "Đáp án này đã được sửa lại khác với tài liệu (Anycast là sai) !" : "";
         if (this.state.isClicked)
             return (
                 <div className="result">
                     <p>Câu trả lời của bạn: <i className="y_n">{this.state.isSelect ? "Đúng" : "Sai"} </i></p>
                     <p id="p">Đán án: <b>{this.state.answers[this.state.result]}</b></p>
-                    <p className="y_n">{warn}</p>
+                    {/* <p className="y_n">{warn}</p> */}
                     <i>Có thể click đáp án khác để test lại</i>
                 </div>
             )    

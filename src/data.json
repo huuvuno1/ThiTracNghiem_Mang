@@ -62,7 +62,7 @@
             "Bản tin",
             "Khung dữ liệu"
         ],
-        "result": 1
+        "result": 3
     },
     {
         "id": "6",
@@ -73,7 +73,7 @@
             "Bản tin",
             "Khung dữ liệu"
         ],
-        "result": 2
+        "result": 0
     },
     {
         "id": "7",
@@ -360,7 +360,7 @@
             "Bit",
             "Hz"
         ],
-        "result": 2
+        "result": 1
     },
     {
         "id": "33",
@@ -382,7 +382,7 @@
             "Application – Transport – Internet – Network Access",
             "Application – Network Access – Internet – Transport "
         ],
-        "result": 0
+        "result": 2
     },
     {
         "id": "35",
@@ -448,7 +448,7 @@
             "Lớp truy nhập mạng, lớp liên mạng, lớp giao vận, lớp ứng dụng ",
             "Lớp truy nhập mạng, lớp mạng, lớp giao vận, lớp ứng dụng"
         ],
-        "result": 0
+        "result": 3
     },
     {
         "id": "41",
@@ -778,7 +778,7 @@
             "Đánh số các packet",
             "Chia nhỏ dữ liệu từ tầng trên xuống để tạo thánh các segment"
         ],
-        "result": 2
+        "result": 3
     },
     {
         "id": "71",
@@ -921,7 +921,7 @@
             "LRC",
             "Sliding Windows"
         ],
-        "result": 2
+        "result": 3
     },
     {
         "id": "84",
@@ -932,7 +932,7 @@
             "LIFO",
             "FIFO"
         ],
-        "result": 0
+        "result": 1
     },
     {
         "id": "85",
