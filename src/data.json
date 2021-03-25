@@ -932,7 +932,7 @@
             "LIFO",
             "FIFO"
         ],
-        "result": 1
+        "result": 0
     },
     {
         "id": "85",
